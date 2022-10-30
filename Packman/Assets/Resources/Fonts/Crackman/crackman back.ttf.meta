@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 6957e6b8b5b787e4c9aec5f9d67bcfa5
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Crack Man
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 6709edb92c184f04a832e57dd3d23568, type: 3}
+  - {fileID: 12800000, guid: e48f02e2af7f389419023172c06f81d1, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
