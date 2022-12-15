@@ -5,17 +5,19 @@ TagManager:
   serializedVersion: 2
   tags:
   - Wall
+  - Enemy
+  - Pallet
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Pallet
   - Water
   - UI
   - Obstacle
   - Player
   - Ground
-  - 
+  - Enemy
   - 
   - 
   - 
